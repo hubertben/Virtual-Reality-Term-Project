@@ -1,0 +1,188 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/ClothingSystemRuntime'",
+		"Package'/Script/SteamVR'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/UMG'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GripEnum__pf563933975.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GripEnum__pf563933975.cpp"
+		},
+		"/Game/Player_Assets/Blueprints/MyCharacter.MyCharacter_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Player_Assets/Blueprints/MyCharacter.MyCharacter_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MyCharacter__pf2263577242.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MyCharacter__pf2263577242.cpp"
+		},
+		"/Game/Player_Assets/Character/HeroTPP_AnimBlueprint.HeroTPP_AnimBlueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/Player_Assets/Character/HeroTPP_AnimBlueprint.HeroTPP_AnimBlueprint_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/HeroTPP_AnimBlueprint__pf53394063.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/HeroTPP_AnimBlueprint__pf53394063.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MotionControllerPawn__pf563933975.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MotionControllerPawn__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_MotionController__pf563933975.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_MotionController__pf563933975.cpp"
+		},
+		"/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RightHand_AnimBP__pf558596347.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RightHand_AnimBP__pf558596347.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PickupActorInterface__pf563933975.h",
+			"generatedCppPath": ""
+		},
+		"/Game/WaterPlane/Ocean/Blueprint/BP_OceanWater.BP_OceanWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Ocean/Blueprint/BP_OceanWater.BP_OceanWater_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_OceanWater__pf1743059703.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_OceanWater__pf1743059703.cpp"
+		},
+		"/Game/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.BP_TranslucentWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.BP_TranslucentWater_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_TranslucentWater__pf401702993.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_TranslucentWater__pf401702993.cpp"
+		},
+		"/Game/WaterPlane/Lake/Blueprint/BP_LakeWater.BP_LakeWater_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/WaterPlane/Lake/Blueprint/BP_LakeWater.BP_LakeWater_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LakeWater__pf1878835236.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LakeWater__pf1878835236.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_PickupCube__pf563933975.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_PickupCube__pf563933975.cpp"
+		},
+		"/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/HMDLocomotionPawn__pf563933975.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/HMDLocomotionPawn__pf563933975.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Sparks__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Sparks__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_WallSconce__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_WallSconce__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_CeilingLight__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_CeilingLight__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Steam__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Steam__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Smoke__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Smoke__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Fire__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Fire__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LightStudio__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LightStudio__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C",
+			"generatedHeaderPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Explosion__pf1079297466.h",
+			"generatedCppPath": "C:/Users/sls82/Desktop/vrproj/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Explosion__pf1079297466.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
